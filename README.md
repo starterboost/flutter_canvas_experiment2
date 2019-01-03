@@ -1,9 +1,5 @@
 # canvas_animation_demo
 
-A new Flutter project.
+Uses canvas.drawImageRect and BlendMode to render image with an opacity mask
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-# flutter_canvas_experiment2
+![Preview](preview.gif)
